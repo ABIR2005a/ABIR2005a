@@ -1,4 +1,3 @@
-```md
 <h1 align="center">✨ Hi there 👋 ✨</h1>
 
 I'm **Abir Mal**, a passionate Computer Application student and aspiring developer. I love building web applications and exploring new technologies! 🚀
