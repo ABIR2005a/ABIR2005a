@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">🎬 Abir Mal - The Developer's Cut 🎬</h1>
 
 <p align="center">
@@ -7,9 +7,7 @@
 
 ---
 
-### 🎥 "Every Line of Code Tells a Story"
-
-I'm **Abir Mal**, a passionate Computer Application student and an aspiring **Full-Stack Developer**. I build experiences on the web and explore cutting-edge technology just like Martin Scorsese crafts cinematic masterpieces. 🎬🚀
+I'm **Abir Mal**, a passionate Computer Application student and an aspiring **Full-Stack Developer**. I build experiences on the web and explore cutting-edge technology.
 
 ---
 
