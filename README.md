@@ -59,5 +59,5 @@ I'm **Abir Mal**, a passionate Computer Application student and an aspiring **Fu
 
 ---
 
-🎥 **Let’s code like a Scorsese film—detailed, innovative, and unforgettable!** 🎬🚀
+🎥 **Let’s code like a BEAST!** 🎬🚀
 ```
